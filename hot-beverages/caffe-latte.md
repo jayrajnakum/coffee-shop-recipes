@@ -33,6 +33,7 @@
 
 This is the change to test
 
+<<<<<<< HEAD
 This is the change to test1
 
 This is the change to tes2
@@ -40,3 +41,5 @@ This is the change to tes2
 This is the change to tes3
 
 
+=======
+>>>>>>> 0a2310dd4b70e313fec702669a8392e158d63a89
