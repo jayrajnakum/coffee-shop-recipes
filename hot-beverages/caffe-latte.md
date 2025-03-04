@@ -34,11 +34,7 @@
 This is the change to test1
 
 <<<<<<< HEAD
-This is the change to test1
 
-This is the change to tes2
-
-This is the change to tes3
 
 
 =======
