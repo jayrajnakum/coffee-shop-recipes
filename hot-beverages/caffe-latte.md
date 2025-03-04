@@ -35,7 +35,7 @@ This is the change to test1
 
 <<<<<<< HEAD
 
-
+THIS IS THE PUSH FROM THE LOCAL TO THE NETWORK (REMOTE ORIGIN)
 
 =======
 >>>>>>> 0a2310dd4b70e313fec702669a8392e158d63a89
